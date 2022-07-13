@@ -1,0 +1,64 @@
+#a1{
+    background-color: rgb(173, 49, 49);
+    height: 100px;
+   
+}
+#a2{
+    background-color: rgb(166, 255, 0);
+    height: 100px;
+   
+}
+#b1{
+    background-color: rgb(240, 115, 13);
+    height: 200px;
+
+}
+#c1{
+    background-color: rgb(101, 158, 101);
+    height: 100px;
+   
+}
+#c2{
+    background-color: rgb(226, 24, 91);
+    height: 100px;
+   
+}
+#c3{
+    background-color: violet;
+    height: 100px;
+
+}
+#d1{
+    background-color: rgb(255, 0, 179);
+    height: 100px;
+}
+#d2{
+    background-color: greenyellow;
+    height: 100px;
+}
+#e1{
+    background-color: rgb(77, 20, 211);
+    height: 70px;
+}
+#e2{
+    background-color: aqua;
+    height: 70px;
+
+} 
+#e3{
+    background-color: red;
+    height: 70px;
+
+}
+#e4{
+    background-color: rgb(99, 202, 228); 
+    height: 70px;
+}
+#f1{
+    background-color: rgb(46, 19, 1); 
+    height: 70px;
+}
+.box div
+{
+    border: 10px solid white;
+}
