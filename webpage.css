@@ -1,0 +1,16 @@
+.page div
+        {
+            border:10px solid white;
+        }
+        p
+        {
+            text-align: justify;
+        }
+        .image
+        {
+            text-align: center;
+        }
+        .image svg
+        {
+            padding: 5px 30px;
+        }
